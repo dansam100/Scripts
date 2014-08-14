@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AsciiConverter">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter.suo">
+</Property><Property Name="Date" Value="September 30, 2008">
+</Property><Property Name="Time" Value="23:38 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="AsciiConverter.sln" Description="File successfully backed up as C:\Documents and Settings\samuel\Desktop\AsciiConverter\Backup\AsciiConverter.sln">
+</Event><Event ErrorLevel="0" Project="" Source="AsciiConverter.suo" Description="File successfully backed up as C:\Documents and Settings\samuel\Desktop\AsciiConverter\Backup\AsciiConverter.suo">
+</Event><Event ErrorLevel="0" Project="AsciiConverter" Source="AsciiConverter\AsciiConverter.csproj" Description="Project file successfully backed up as C:\Documents and Settings\samuel\Desktop\AsciiConverter\Backup\AsciiConverter\AsciiConverter.csproj">
+</Event><Event ErrorLevel="0" Project="AsciiConverter" Source="AsciiConverter\Program.cs" Description="File successfully backed up as C:\Documents and Settings\samuel\Desktop\AsciiConverter\Backup\AsciiConverter\Program.cs">
+</Event><Event ErrorLevel="0" Project="AsciiConverter" Source="AsciiConverter\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\samuel\Desktop\AsciiConverter\Backup\AsciiConverter\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="AsciiConverter" Source="AsciiConverter\AsciiConverter.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="AsciiConverter" Source="AsciiConverter\AsciiConverter.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="AsciiConverter.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="AsciiConverter.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="AsciiConverter" Source="AsciiConverter\AsciiConverter.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,5 @@
+\\ecfile1\tboodram\My Documents\Visual Studio 2005\Projects\AsciiConverter\AsciiConverter\obj\Debug\ResolveAssemblyReference.cache
+\\ecfile1\tboodram\My Documents\Visual Studio 2005\Projects\AsciiConverter\AsciiConverter\bin\Debug\AsciiConverter.exe
+\\ecfile1\tboodram\My Documents\Visual Studio 2005\Projects\AsciiConverter\AsciiConverter\bin\Debug\AsciiConverter.pdb
+\\ecfile1\tboodram\My Documents\Visual Studio 2005\Projects\AsciiConverter\AsciiConverter\obj\Debug\AsciiConverter.exe
+\\ecfile1\tboodram\My Documents\Visual Studio 2005\Projects\AsciiConverter\AsciiConverter\obj\Debug\AsciiConverter.pdb

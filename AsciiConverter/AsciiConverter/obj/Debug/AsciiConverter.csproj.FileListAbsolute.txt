@@ -1,0 +1,5 @@
+C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter\obj\Debug\AsciiConverter.exe
+C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter\obj\Debug\AsciiConverter.pdb
+C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter\bin\Debug\AsciiConverter.exe
+C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter\bin\Debug\AsciiConverter.pdb
+C:\Documents and Settings\samuel\Desktop\AsciiConverter\AsciiConverter\obj\Debug\ResolveAssemblyReference.cache
